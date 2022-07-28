@@ -1,0 +1,20 @@
+.judul{
+    text-align: center;
+    color: rgb(161, 199, 58);
+
+}
+
+.sub{
+    color: rgb(212, 12, 12);
+    text-shadow: 10px 10px 5px aqua
+}
+
+p{
+    text-align: justify;
+    text-transform: none;
+    text-decoration: dotted;
+}
+
+[placeholder="Isi Disini"]{
+    color: blue;
+}
